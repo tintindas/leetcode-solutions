@@ -12,10 +12,10 @@ Integer overflows - If the number of bits used is fixed, the range of integers t
 
 ## Challenges
 
-1. Keeping reverse within bounds i.e. within [-2^31, 2^31 - 1] or return 0.
+1. Keeping ans within bounds i.e. within [-2^31, 2^31 - 1] or return 0.
 2. Keeping track of sign of the number.
 
-## Explanation
+## Solution Explained
 
 1. Check to see if the input number is within the valid range.
 2. In each loop check to see if ans is less than max_int i.e. 2^31 before doing the multiplication operation.
@@ -23,5 +23,5 @@ Integer overflows - If the number of bits used is fixed, the range of integers t
 
 ## Notes
 
-1. Easier in python as integer overflows are handled automatically in the language. Indeed the language as arbitrary precision and hence pure python does not have integer overflows at all. (However numpy and pandas do. Watch out for that)
+1. Easier in python as integer overflows are handled automatically in the language. Indeed the language has arbitrary precision and hence pure python does not have integer overflows at all. (However numpy and pandas do. Watch out for that!)
 2. Problem is trickier in C++ or Java. Solve with those languages to understand handling of integer overflows which is what this problem is meant to teach.
