@@ -1,4 +1,4 @@
-# 9. Palindrome Number | Easy | Math
+# 9. Palindrome Number
 
 ## Problem Statement
 
@@ -8,7 +8,7 @@ An integer is a palindrome when it reads the same backward as forward. For examp
 
 ## Main Concept
 
-Handling palindromes - The first thing to think when a palindrome question shows up is that only half of the string/number has to be processed. Processing the entire number will most likely fail a few time constrained test cases.
+**Handling palindromes** - The first thing to think when a palindrome question shows up is that only half of the string/number has to be processed. Processing the entire number will most likely fail a few time constrained test cases.
 
 ## Challenges
 

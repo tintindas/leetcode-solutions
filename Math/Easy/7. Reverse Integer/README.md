@@ -1,4 +1,4 @@
-# 7. Reverse Integer | Easy | Math
+# 7. Reverse Integer
 
 ## Problem Statement
 
@@ -8,7 +8,7 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 
 ## Main Concept
 
-Integer overflows - If the number of bits used is fixed, the range of integers that can be represented would be fixed and can potentially overflow. That is the case for many languages such as C/C++. (Not the case for python)
+**Integer overflows** - If the number of bits used is fixed, the range of integers that can be represented would be fixed and can potentially overflow. That is the case for many languages such as C/C++. (Not the case for python)
 
 ## Challenges
 

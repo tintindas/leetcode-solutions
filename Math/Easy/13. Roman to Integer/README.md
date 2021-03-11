@@ -1,4 +1,4 @@
-# 13. Roman to Integer | Easy | Math, Dictionary
+# 13. Roman to Integer
 
 ## Problem Statement
 
@@ -26,7 +26,7 @@ Given a roman numeral, convert it to an integer.
 
 ## Main Concept
 
-Use of dictionaries - This question mostly tests ones ability to not write a large number of if/else or switch statements. It is basic test of whether a data structure occurs to the test taker while solving interview problems.
+**Use of dictionaries** - This question mostly tests ones ability to not write a large number of if/else or switch statements. It is basic test of whether a data structure occurs to the test taker while solving interview problems.
 
 ## Challenges
 
