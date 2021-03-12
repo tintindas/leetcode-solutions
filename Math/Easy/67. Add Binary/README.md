@@ -24,4 +24,4 @@ Return contents of deque as a string.
 
 ## Notes
 
-1. Could be done solved using an array too. Would involve reversing the final answer obtained.
+1. Could be done solved using an array too.
