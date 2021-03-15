@@ -8,4 +8,4 @@ Given an integer num, repeatedly add all its digits until the result has only on
 
 Define a function to calculate the sum of digits of a given number.
 
-Run this function in a loop while the floor of the number is not zero. When the floor is zero, num is the required answer.
+Run this function in a loop while the floor of the number is not zero. When the floor is zero, _num_ is the required answer.
