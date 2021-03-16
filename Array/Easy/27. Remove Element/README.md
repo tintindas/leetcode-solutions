@@ -1,4 +1,4 @@
-# 27. Remove Elements
+# 27. Remove Element
 
 ## Problem Statements
 
