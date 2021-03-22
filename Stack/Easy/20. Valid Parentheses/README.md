@@ -11,7 +11,7 @@ An input string is valid if:
 
 ## Main Concept
 
-**Stacks** - A stack is a first-in-last-out data structure. It is especially useful for keeping track of the most recently inserted elements.
+**Stacks** - A stack is a last-in-first-out (LIFO) data structure. It is especially useful for keeping track of the most recently inserted elements.
 
 ## Solution Explained
 
