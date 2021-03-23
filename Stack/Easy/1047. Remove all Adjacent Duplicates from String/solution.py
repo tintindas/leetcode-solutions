@@ -5,8 +5,7 @@ class Solution:
 
         for c in S:
             if stack and c == stack[-1]:
-                while stack and stack[-1] == c:
-                    stack.pop()
+                stack.pop()
             else:
                 stack.append(c)
 
