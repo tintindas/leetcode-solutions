@@ -11,3 +11,5 @@ The solution set must not contain duplicate subsets. Return the solution in any 
 Similar to [78. Subsets](../78.%20Subsets).
 
 The only modifications we make is that the path is a tuple instead of a list as lists are mutable and tuples are not. This is done as our answer is stored in a set which requires its elements to be hashable. A set is used so that we do not have any duplicates.
+
+The array is sorted first so as to make or tuples ordered.
